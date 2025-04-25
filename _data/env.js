@@ -7,4 +7,5 @@ module.exports = {
   YEAR: _YEAR,
   APIURL: process.env.APIURL,
   ADMINURL: process.env.ADMINURL,
+  CODEURL: "https://github.com/OrbitLabsDAO/buildingblock_admin",
 };
