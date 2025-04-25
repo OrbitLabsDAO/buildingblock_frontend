@@ -2,7 +2,6 @@ _site
 _includes
 node_modules/
 package-lock.json
-package.json
 .DS_Store
 .wrangler
 .dev.vars
