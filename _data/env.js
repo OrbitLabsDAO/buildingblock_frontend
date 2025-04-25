@@ -11,7 +11,7 @@ module.exports = {
   ADMINCODEURL: "https://github.com/OrbitLabsDAO/buildingblock_admin",
   CROWDFUNDCODEURL: "https://github.com/OrbitLabsDAO/buildingblock-crowdfund",
   PAYMENTCODEURL: "https://github.com/OrbitLabsDAO/paymev2",
-  CROWDFUNDDEMOURL: "https://crowdfund.buildblock.app",
+  CROWDFUNDDEMOURL: "https://crowdfund.buildblock.app/?id=1",
   ADMINDEMOURL: "https://admin.buildblock.app",
   PAYMENTDEMOURL: "",
 };
